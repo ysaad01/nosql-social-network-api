@@ -29,7 +29,7 @@ Run one of the below commands to start the application:
 
 ## [Demo](#table-of-contents)
 
-[Click Here] to watch walkthough of the application(https://drive.google.com/file/d/16_wXsT6Rs1UTHry6jFoqCLovH3yF45BG/view)
+[Click Here](https://drive.google.com/file/d/16_wXsT6Rs1UTHry6jFoqCLovH3yF45BG/view) to watch a walk through of the application
 
 ## [Questions](#table-of-contents)
 
