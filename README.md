@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-
+- [Demo](#demo)
 - [Questions](#questions)
 
 ## [Description](#table-of-contents)
@@ -26,6 +26,8 @@ Run one of the below commands to start the application:
 - `npm start`
 - `node server.js`
 - `npm run dev`
+
+## [Demo](#table-of-contents)
 
 ## [Questions](#table-of-contents)
 
